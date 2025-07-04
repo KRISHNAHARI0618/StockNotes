@@ -67,5 +67,4 @@ About Stock Notes And Mutual Funds
 
 ## Stock Market Day 3
 
-
 - 
