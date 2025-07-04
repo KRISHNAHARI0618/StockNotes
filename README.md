@@ -23,4 +23,46 @@ About Stock Notes And Mutual Funds
    1. NSDL - NSE - National Stock Exchange
    2. CDSL - BSE - Bombay Stock Exchange
    3. When we are opening account we will be creating two account Demat and Trading Account
-10. 
+
+
+## Types of Investors
+1. Retail Investors
+2. DIIS- Domestic Institutional Investors
+   1. Mutual Funds
+   2. Pensioners 
+   3. Life Insurers
+3. HNIS - High Net-worth Individuals
+4. FDIs & FIIS - Foreign Institutional Investors & Foreign Direct Investors
+
+## Terminologies
+1. Bull Market
+   1. Rising Market
+2. Bear Market
+   1. Lowering Market
+3. Side Ways Marketing
+4. Large Cap Companies
+5. Mid Cap Companies
+6. Small Cap Companies
+7. Multi Bagger Stocks 
+
+## Stock Market Day 2
+
+1. where to see drafts submitted to SEBI
+   1. sebi.gov.in
+      1. filings
+         1. public issues --> Draft Offer Field
+         2. Red Herriering Drafts
+         3. Final Offer Document
+         4. Rights Issues
+         5. Mutual Funds Tab
+2. Market Order
+   1. when the stock value is same as stock price
+3. Limit Order
+4. GTC Good Till Order (GTC)
+5. After Order Market(AMO)
+6. Stop Loss Order (SL LMT Order)
+7. BSE.india.com
+   1. Market --> Indicies --> Sensex
+   2. 
+
+## Stock Market Day 3
