@@ -2,5 +2,12 @@
 
 ### Top 30 
 
-1. HDFC 
-2. 
+## Pharma Stocks:
+
+1. JBC Chemicals & co
+
+
+### Invest on Pharma stock
+
+- Zydus life Sciences --> 50,000 Rs
+- Marico Limited --> 50,000 Rs

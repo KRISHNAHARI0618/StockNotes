@@ -44,6 +44,26 @@ About Stock Notes And Mutual Funds
 5. Mid Cap Companies
 6. Small Cap Companies
 7. Multi Bagger Stocks 
+8. EPS --> Earning Per Share
+   1. EPS(Earning Per share) == Total Earnings / Total Outstansing shares
+9. Market Captilization 
+   1.  Market Capital = Total No Of Shares * Current Share Price
+10. Market Free Float - Market FF
+11. Price to Earning Ratio
+    1.  P/E Ratio = Stock Price / Earnings Per Share (EPS) 
+12. Book Value
+    1.  Book Value = Total Assets - Total Liabilities
+    2.  Total No of shares / book value per share
+13. Price To Book Value
+    1.  Price to Book Value = Share Price / Book Value per share
+14. Dividend = Money given to User when profit came for company
+15. Bonus Money
+16. Gross Domestic Product
+    1.  Total Offer product
+    2.  Total Consumer Product
+
+
+
 
 ## Stock Market Day 2
 
@@ -63,8 +83,18 @@ About Stock Notes And Mutual Funds
 6. Stop Loss Order (SL LMT Order)
 7. BSE.india.com
    1. Market --> Indicies --> Sensex
-   2. 
+   2. TTM --> Trailing Twele Months
+8. Price to Earning Ratio
+   1. PE = Share Price / Earnings per share
 
 ## Stock Market Day 3
 
+- VWAP : Volume Weighted Average Price
+- Upper Price band and Lower stock band
+- TTQ --> Total Traded Quantity
+
+
+### Key Indicators
+
+- Corporate Earnings
 - 
